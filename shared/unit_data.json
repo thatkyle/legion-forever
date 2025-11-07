@@ -1,0 +1,177 @@
+{
+  "u011":{
+    "unitBaseId":"ncgb",
+    "unitId":"u011",
+    "unitName":"Clockwerk Goblin"
+  },
+  "u018":{
+    "unitBaseId":"nslf",
+    "unitId":"u018",
+    "unitName":"Sludge Flinger"
+  },
+  "u029":{
+    "unitBaseId":"ufro",
+    "unitId":"u029",
+    "unitName":"Frost Wyrm"
+  },
+  "u024":{
+    "unitBaseId":"nrvd",
+    "unitId":"u024",
+    "unitName":"Revenant"
+  },
+  "u008":{
+    "unitBaseId":"uaco",
+    "unitId":"u008",
+    "unitName":"Acolyte"
+  },
+  "u001":{
+    "unitBaseId":"ncrb",
+    "unitId":"u001",
+    "unitName":"Crab"
+  },
+  "u022":{
+    "unitBaseId":"nmam",
+    "unitId":"u022",
+    "unitName":"Mammoth"
+  },
+  "u006":{
+    "unitBaseId":"ngst",
+    "unitId":"u006",
+    "unitName":"Rock Golem"
+  },
+  "u016":{
+    "unitBaseId":"nstw",
+    "unitId":"u016",
+    "unitName":"Lightning Chicken"
+  },
+  "u032":{
+    "unitBaseId":"Ucrl",
+    "unitId":"u032",
+    "unitName":"Crypt Lord"
+  },
+  "u004":{
+    "unitBaseId":"nqb1",
+    "unitId":"u004",
+    "unitName":"Quilbeast"
+  },
+  "u003":{
+    "unitBaseId":"nanb",
+    "unitId":"u003",
+    "unitName":"Scorpion"
+  },
+  "u026":{
+    "unitBaseId":"nmyr",
+    "unitId":"u026",
+    "unitName":"Myrmidon"
+  },
+  "u025":{
+    "unitBaseId":"ndqn",
+    "unitId":"u025",
+    "unitName":"Succubus"
+  },
+  "u027":{
+    "unitBaseId":"nbal",
+    "unitId":"u027",
+    "unitName":"Doom Guard"
+  },
+  "u023":{
+    "unitBaseId":"nwld",
+    "unitId":"u023",
+    "unitName":"Wildkin"
+  },
+  "u019":{
+    "unitBaseId":"nsgt",
+    "unitId":"u019",
+    "unitName":"Giant Spider"
+  },
+  "u010":{
+    "unitBaseId":"Naka",
+    "unitId":"u010",
+    "unitName":"Draenei Chieftain"
+  },
+  "u020":{
+    "unitBaseId":"ntrd",
+    "unitId":"u020",
+    "unitName":"Dragon Turtle"
+  },
+  "u013":{
+    "unitBaseId":"nwgs",
+    "unitId":"u013",
+    "unitName":"Couatl"
+  },
+  "u035":{
+    "unitBaseId":"Nklj",
+    "unitId":"u035",
+    "unitName":"Burning Legion"
+  },
+  "u028":{
+    "unitBaseId":"nina",
+    "unitId":"u028",
+    "unitName":"Juggernaut"
+  },
+  "u031":{
+    "unitBaseId":"Nplh",
+    "unitId":"u031",
+    "unitName":"Pit Lord"
+  },
+  "u034":{
+    "unitBaseId":"Nfir",
+    "unitId":"u034",
+    "unitName":"Fire Lord"
+  },
+  "u030":{
+    "unitBaseId":"nmgw",
+    "unitId":"u030",
+    "unitName":"Magnataur"
+  },
+  "u012":{
+    "unitBaseId":"nnsu",
+    "unitId":"u012",
+    "unitName":"Siren"
+  },
+  "u007":{
+    "unitBaseId":"nsty",
+    "unitId":"u007",
+    "unitName":"Satyr"
+  },
+  "u002":{
+    "unitBaseId":"nmrl",
+    "unitId":"u002",
+    "unitName":"Murloc"
+  },
+  "u017":{
+    "unitBaseId":"nfgl",
+    "unitId":"u017",
+    "unitName":"Flesh Golem"
+  },
+  "u015":{
+    "unitBaseId":"ncen",
+    "unitId":"u015",
+    "unitName":"Centaur"
+  },
+  "u021":{
+    "unitBaseId":"ehip",
+    "unitId":"u021",
+    "unitName":"Hippogryph"
+  },
+  "u033":{
+    "unitBaseId":"ndtw",
+    "unitId":"u033",
+    "unitName":"War Lord"
+  },
+  "u005":{
+    "unitBaseId":"nwe1",
+    "unitId":"u005",
+    "unitName":"Hawk"
+  },
+  "u014":{
+    "unitBaseId":"ntkw",
+    "unitId":"u014",
+    "unitName":"Tuskar Warrior"
+  },
+  "u009":{
+    "unitBaseId":"nzom",
+    "unitId":"u009",
+    "unitName":"Zombie"
+  }
+}

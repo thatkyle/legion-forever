@@ -1,0 +1,36 @@
+BaseID,New Unit,HP1,ADmin,ADmax,Range,AS,AR
+ncrb,Crab,100,7,9,90,0.9,0
+nmrl,Murloc,155,10,14,90,0.9,0
+nanb,Scorpion,250,14,15,90,0.9,2
+nqb1,Quilbeast,250,14,16,400,0.9,5
+nwe1,Hawk,350,31,33,90,0.9,0
+ngst,Rock Golem,501,47,48,90,1.0,10
+nsty,Satyr,600,49,51,100,1.1,0
+uaco,Acolyte,530,26,30,400,0.9,2
+nzom,Zombie,1075,57,59,120,0.9,5
+Naka,Draenei Chieftain,5800,200,220,180,0.42,0
+ncgb,Clockwerk Goblin,1250,76,78,90,0.8,10
+nnsu,Siren,1050,44,46,400,0.77,2
+nwgs,Couatl,1400,91,94,90,0.8,0
+ntkw,Tuskar Warrior,2350,124,126,90,0.85,2
+ncen,Centaur,2550,150,155,120,0.83,5
+nstw,Lightning Chicken,1300,100,112,400,0.63,0
+nfgl,Flesh Golem,2900,179,183,150,0.81,10
+nslf,Sludge Flinger,3600,200,205,150,0.64,2
+nsgt,Giant Spider,3700,201,201,150,0.7,0
+ntrd,Dragon Turtle,18500,200,230,425,0.47,20
+ehip,Hippogryph,11900,223,230,180,0.6,0
+nmam,Mammoth,18600,221,233,120,1.15,10
+nwld,Wildkin,18300,300,314,180,1.07,5
+nrvd,Revenant,12000,210,230,600,1.0,2
+ndqn,Succubus,25200,330,354,150,0.8,0
+nmyr,Myrmidon,21300,330,350,170,1.05,5
+nbal,Doom Guard,28000,285,295,180,0.8,2
+nina,Juggernaut,22000,235,245,450,0.75,10
+ufro,Frost Wyrm,21000,266,286,400,1.07,5
+nmgw,Magnataur,23000,777,888,100,0.6,10
+Nplh,Pit Lord,18000,600,610,225,0.8,0
+Ucrl,Crypt Lord,30000,700,730,225,0.48,0
+ndtw,War Lord,25000,700,900,225,0.45,5
+Nfir,Fire Lord,15000,60,60,450,0.25,2
+Nklj,Burning Legion,100000,1000,1000,500,0.4,10

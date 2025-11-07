@@ -1,0 +1,15 @@
+king upgrades
+  - trigger for buying upgrades
+  - map research to king property based on trigger player
+  - update king property on table
+  - update kings stats
+  - give king spells/abilities when conditions are met
+
+king control
+  - kings start belonging to players 17 and 18
+  - kings can be controlled by players 1-16
+  - when a player clicks king, transfer control to that player
+  - when a player with higher elo clicks king, transfer control to that player
+  - 3 players can vote to transfer control to a new player
+
+transfer terrain

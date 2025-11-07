@@ -1,0 +1,37 @@
+Wave,Name,HP,Range,Damage,Att Speed,DPS,Mov Speed,Attack,Armor,Abilities
+,,,,,,,,,,
+1,Crab,100,90,7 - 9,0.9,8.9,235,Pierce,Unarmored,-
+2,Murloc,155,90,10 - 14,0.9,13.3,275,Normal,Unarmored,-
+3,Scorpion,250,90,14 - 15,0.9,16.1,325,Normal,Medium,-
+4,Quilbeast,250,400,14 - 16,0.9,16.7,300,Pierce,Heavy,-
+5,Hawk,350,90,31 - 33,0.9,35.6,320,Magic,Light,-
+6,Rock Golem,501,90,47 - 48,1,47.5,300,Siege,Fortified,Fortified Unit
+7,Satyr,600,100,49 - 51,1.1,45.5,320,Pierce,Light,-
+8,Acolyte,530,400,26 - 30,0.9,31.1,300,Magic,Medium,-
+9,Zombie,1075,120,57 - 59,0.9,64.4,320,Normal,Heavy,-
+10,Draenei Chieftain,5800,180,200 - 220,0.42,500,200,Chaos,Light,Boss Unit
+11,Clockwerk Goblin,1250,90,76 - 78,0.8,96.3,350,Siege,Fortified,Fortified Unit
+12,Siren,1050,400,44 - 46,0.77,58.4,350,Pierce,Medium,"King's Defiance, Regicide (Siren)"
+13,Couatl,1400,90,91 - 94,0.8,115.6,345,Magic,Light,-
+14,Tuskar Warrior,2350,90,124 - 126,0.85,147.1,350,Normal,Medium,"King's Defiance, Regicide (Siren)"
+15,Centaur,2550,120,150 - 155,0.83,183.7,350,Normal,Heavy,-
+16,Lightning Chicken,1300,400,100 - 112,0.63,168.3,350,Magic,Light,-
+17,Flesh Golem,2900,150,179 - 183,0.81,223.5,325,Siege,Fortified,Fortified Unit
+18,Sludge Flinger,3600,150,200 - 205,0.64,316.4,350,Magic,Medium,-
+19,Giant Spider,3700,150,201 - 201,0.7,287.1,350,Pierce,Light,-
+20,Dragon Turtle,18500,425,200 - 230,0.47,457.4,350,Chaos,Divine,"Torrent, Boss Unit"
+21,Hippogryph,11900,180,223 - 230,0.6,377.5,350,Pierce,Light,-
+22,Mammoth,18600,120,221 - 233,1.15,197.4,275,Siege,Fortified,Fortified Unit
+23,Wildkin,18300,180,300 - 314,1.07,286.9,300,Normal,Heavy,-
+24,Revenant,12000,600,210 - 230,1,220,330,Magic,Medium,Thunder attack
+25,Succubus,25200,150,330 - 354,0.8,427.5,420,Pierce,Light,-
+26,Myrmidon,21300,170,330 - 350,1.05,323.8,375,Normal,Heavy,-
+27,Doom Guard,28000,180,285 - 295,0.8,362.5,400,Normal,Medium,-
+28,Juggernaut,22000,450,235 - 245,0.75,320,350,Siege,Fortified,Fortified Unit
+29,Frost Wyrm,21000,400,266 - 286,1.07,257.9,360,Magic,Heavy,-
+30,Magnataur,23000,100,777 - 888,0.6,1387.5,360,Chaos,Fortified,"Magnataur's Shockwave, Magnataur's Shockwave, Boss Unit, Fortified Unit"
+31,Pit Lord,18000,225,600 - 610,0.8,756.3,350,Chaos,Unarmored,Boss Unit
+32,Crypt Lord,30000,225,700 - 730,0.48,1489.6,400,Pierce,Light,"Crypt Lord Poison, Boss Unit"
+33,War Lord,25000,225,700 - 900,0.45,1777.8,400,Normal,Heavy,"Life Steal, Boss Unit"
+34,Fire Lord,15000,450,60 - 60,0.25,240,400,Magic,Medium,"Boss Unit, Rockets"
+35,Burning Legion,100000,500,1000 - 1000,0.4,2500,400,Chaos,Fortified,"DOOM's Permanent Immolation, Boss Unit, Call to Arms"

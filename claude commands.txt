@@ -1,0 +1,2 @@
+in src/main.lua create eight rectangular regions With a width of 800 units and a height of 400 units and space them equally throughout the map the maps maximum X coordinate is 3,280 the maps minimum X coordinate is minus 3,280 the maps maximum Y coordinate is 3,280 and the map's minimum Y coordinate is minus 3,280. Add these regions to a table called playersSpawns
+
